@@ -13,7 +13,7 @@ Using the constructor method, create an InstagramPost() constructor function tha
 # Question 2
 Create 2 Instagram post objects from the constructor function you created above
 
-# question 3
+# Question 3
 Musa Dawodu is a 19 years old Nigerian male who lives with his parents in Lekki, Lagos State. Recently, he wrote the JAMB exam and had the following scores in his combination:
 - ENG - 70
 - GOVT - 85
@@ -23,7 +23,7 @@ Musa Dawodu is a 19 years old Nigerian male who lives with his parents in Lekki,
 1. Using the factory method, implement a createPerson() factory function that takes name, age and location as arguments. Afterwards, create an object representing Musa from the factory function. 
 2. Also, implement a factory function createJambScores() that takes eng, govt, lit, crk as arguments. Then create an object representing Muse’s JAMB scores. Add the object as a property to Musa object you created above in (a) above
 
-# question 4
+# Question 4
 What are the different ways you can clone an object? Give examples for each of them.
 
 # Question 5
