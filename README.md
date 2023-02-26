@@ -30,7 +30,7 @@ What are the different ways you can clone an object? Give examples for each of t
 As Nigeria goes to the polls, here is an object representing some of the Presidential Candidates:
 
 const presidentialCandidates = {
-    
+
    AAC: 'Omoyele Sowore',
 
    ACCORD: 'Christopher Imumolen',
@@ -42,6 +42,7 @@ const presidentialCandidates = {
    NNPP: 'Rabiu Kwankwaso',
 
    PDP: 'Atiku Abubakar',
+   
 }
 
 Using any of the enumeration methods taught in class (for…in  or for..of), log out each of the presidential candidates in this format:
